@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.007683a3.css",
+    "main.js": "/static/js/main.7ddb6f78.js",
+    "static/js/453.5702a6f4.chunk.js": "/static/js/453.5702a6f4.chunk.js",
+    "static/media/health-care.png": "/static/media/health-care.70e8123af3b4f271d974.png",
+    "static/media/po.png": "/static/media/po.fc6531115e505497ae1a.png",
+    "static/media/HD-wallpaper-medical-doctor-aesthetic-medical-doctor.jpg": "/static/media/HD-wallpaper-medical-doctor-aesthetic-medical-doctor.9674ce2582c2e035fd19.jpg",
+    "static/media/O9FG4W0.jpg": "/static/media/O9FG4W0.f5e91a0d734a51af3639.jpg",
+    "static/media/1-2-happy-person-png-image.png": "/static/media/1-2-happy-person-png-image.d1bba3fbf4676bc841bb.png",
+    "static/media/hospice.png": "/static/media/hospice.97e074a53baef24a1524.png",
+    "static/media/nursing.png": "/static/media/nursing.8e65a321226b1c712fbc.png",
+    "static/media/Hospital.png": "/static/media/Hospital.ed2bfac9e6dbf503a3d9.png",
+    "static/media/welcome.png": "/static/media/welcome.b7a6a270f6fb997f8f67.png",
+    "static/media/Doctors.png": "/static/media/Doctors.92298f3979b3b998dfab.png",
+    "index.html": "/index.html",
+    "main.007683a3.css.map": "/static/css/main.007683a3.css.map",
+    "main.7ddb6f78.js.map": "/static/js/main.7ddb6f78.js.map",
+    "453.5702a6f4.chunk.js.map": "/static/js/453.5702a6f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007683a3.css",
+    "static/js/main.7ddb6f78.js"
+  ]
+}
